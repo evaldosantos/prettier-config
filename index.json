@@ -8,5 +8,5 @@
   "bracketSpacing": true,
   "trailingComma": "es5",
   "endOfLine": "lf",
-  "jsxBracketSameLine": true,
+  "jsxBracketSameLine": true
 }
